@@ -1,4 +1,4 @@
-git is a distributed version control systom
+git is a very important distributed version control systom
 git is free software
 
 
