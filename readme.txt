@@ -7,3 +7,5 @@ Creating a new branch is quick and simple
 
 practice how to use merge.哈哈哈
 
+git is a free software
+
