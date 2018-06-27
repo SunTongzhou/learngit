@@ -5,3 +5,5 @@ git tracks changes.
 
 Creating a new branch is quick and simple
 
+practice how to use merge.
+
