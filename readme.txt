@@ -5,7 +5,7 @@ git tracks changes.
 
 Creating a new branch is quick and simple
 
-practice how to use merge.哈哈哈
+practice how to use merge.嘻嘻嘻
 
 git is a free software
 
